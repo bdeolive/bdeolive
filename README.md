@@ -2,7 +2,7 @@
 Hello there!
 
 - 👾 I am currently working as a Java Developer in a software outsourcing agency...
-- 🐣 and learning about VueJS, ReactJS, AWS, TDD and NoSQL.
+- 🐣 and learning VueJS, ReactJS, AWS, TDD and NoSQL.
 - 🦄 Pronouns: she/her
 - ⚡ Fun fact: Brazilian living in Hungary
 
